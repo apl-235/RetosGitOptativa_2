@@ -10,7 +10,7 @@ public class PruebasGitVideo {
 		
 		System.out.println("este es mi segundo reto");
 
-		int numero = 0;
+		int= 0;
 		
 	}
 	
