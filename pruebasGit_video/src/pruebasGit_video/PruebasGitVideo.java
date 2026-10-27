@@ -9,7 +9,8 @@ public class PruebasGitVideo {
 		System.out.println("esta es la prueba 1");
 		
 		System.out.println("este es mi segundo reto");
-		
+
+		int numero = 33;
 		
 	}
 	
